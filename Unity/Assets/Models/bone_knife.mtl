@@ -1,0 +1,16 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration 
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+newmtl bone
+	 Ka 0 0 0
+	 Kd 0.972549 0.843137 0.596078
+	 Ks 0.729412 0.632353 0.447059
+	 illum 2
+	 Ns 11.3137
+map_Kd knife01.jpg
+map_bump knife01_b.jpg
+bump knife01_b.jpg
+map_kS knife01_s.jpg
